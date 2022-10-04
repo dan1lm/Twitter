@@ -19,4 +19,5 @@ User can favorite a tweet.
 
 User can retweet a tweet. 
 
-![](https://im2.ezgif.com/tmp/ezgif-2-0a238d0174.gif)
+
+![](https://github.com/dan1lm/Twitter-swift/im2.ezgif.com/tmp/ezgif-2-0a238d0174.gif)
