@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+Twitter
 
 This twitter clone is a basic twitter app to read your tweets.
 
