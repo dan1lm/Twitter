@@ -18,6 +18,3 @@ User can compose a tweet.
 User can favorite a tweet. 
 
 User can retweet a tweet. 
-
-
-![](https://github.com/dan1lm/Twitter-swift/ezgif-2-0a238d0174.gif)
