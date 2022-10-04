@@ -13,8 +13,10 @@ User stays logged in across restarts.
 
 User can view tweets with the user profile picture, username, and tweet text. 
 
-User can compose a tweet. (4pts)
+User can compose a tweet. 
 
-User can favorite a tweet. (4pts)
+User can favorite a tweet. 
 
-User can retweet a tweet. (2pts)
+User can retweet a tweet. 
+
+![](https://im2.ezgif.com/tmp/ezgif-2-0a238d0174.gif)
