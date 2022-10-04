@@ -12,3 +12,9 @@ User can log out.
 User stays logged in across restarts. 
 
 User can view tweets with the user profile picture, username, and tweet text. 
+
+User can compose a tweet. (4pts)
+
+User can favorite a tweet. (4pts)
+
+User can retweet a tweet. (2pts)
