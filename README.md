@@ -1,7 +1,9 @@
 Twitter
 
 This twitter clone is a basic twitter app to read your tweets.
+
 ![](https://media.giphy.com/media/rA0PUtL8vxzMykCRt0/giphy.gif)
+
 
 ![](https://media.giphy.com/media/0srdmFpQEN0VOucFb7/giphy.gif)
 
